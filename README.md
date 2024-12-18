@@ -24,9 +24,6 @@ Welcome to my **LeetCode Solutions Repository**! Here, I document my journey of 
 - **50 Days Badge (2024)**  
 - **100 Days Badge (2024)**  
 - **May LeetCoding Challenge Badge (2024)**  
-- **Daily Coding Streak**:  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&dateformat=[Y.]n.j)](https://git.io/streak-stats)  
-
 ---
 
 ## 🌟 Future Goals
