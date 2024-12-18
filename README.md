@@ -5,7 +5,7 @@ Welcome to my LeetCode solutions repository! Here, I document my progress, appro
 ---
 
 ## 📈 Progress Overview
-![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=activity)
+<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=activity) -->
 ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=null)
 ---
 
@@ -16,41 +16,42 @@ Welcome to my LeetCode solutions repository! Here, I document my progress, appro
 - **Code Practices**: Clean, readable, and efficient Python code.
 
 ---
-
+<br />
 
 ## 🏆 Achievements
 
 - 50 Days Badge 2024
 - 100 Days Badge 2024
 - May leetCoding challenge Badge 2024
-- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=denvercoder1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats).
-- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats).
-
+- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats).
+- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal)](https://git.io/streak-stats).
+<br />
 ## 📝 How to Use
 Clone this repository:
  
-`git clone https://github.com/your-username/leetcode-python3.git`
+```git clone https://github.com/your-username/leetcode-python3.git```
 Navigate to a problem's folder: 
 
-`cd 1-two-sum`
-Run the solution:
+`cd 1-two-sum`<br />
+Run the solution:<br />
 `python3 two_sum.py`
-
+<br />
 
 ## 🌟 Future Goals
 - Solve 200+ problems across various difficulty levels.
 - Get 200 Days LeetCode Badge.
 - Focus on Dynamic Programming and Graph Algorithms.
 - Share optimized solutions with detailed explanations.
-
+<br />
 ## 🧩 Resources
 - [LeetCode](https://leetcode.com/)
 - [Python Official Documentation](https://docs.python.org/3/)
 
-
+<br />
 ## ✍️ Author
 **Muhammad Haris Ahsan** - [GitHub Profile](https://github.com/Haris-Mughal) | [Portfolio](https://muhammad-haris-ahsan.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/iamharisahsan)
+<br />
 Feel free to ⭐ the repository if you find it useful, and reach out for collaboration or queries. 😊
-
+<br />
 
  > Happy Coding
