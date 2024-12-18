@@ -1,57 +1,59 @@
 # 🚀 LeetCode Journey in Python 🐍
 
-Welcome to my LeetCode solutions repository! Here, I document my progress, approaches, and solutions to various LeetCode problems using **Python 3**. My goal is to enhance my problem-solving skills, master algorithms and data structures, and prepare for technical interviews. 💡
+Welcome to my **LeetCode Solutions Repository**! Here, I document my journey of solving LeetCode problems using **Python 3**, focusing on improving problem-solving skills, mastering algorithms and data structures, and preparing for technical interviews. 💡
 
 ---
 
 ## 📈 Progress Overview
-<!-- ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=activity) -->
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/Muhammad_Haris_Ahsan?theme=dark&font=baloo&extension=null)
+
 ---
 
 ## 🛠️ Skills I'm Improving
-- **Core Concepts**: Arrays, Strings, Linked Lists, Trees, Graphs, etc.
+
+- **Core Concepts**: Arrays, Strings, Linked Lists, Trees, Graphs, and more.
 - **Algorithms**: Sorting, Searching, Dynamic Programming, Greedy, Backtracking, etc.
-- **Problem-Solving**: Optimizing time and space complexity.
-- **Code Practices**: Clean, readable, and efficient Python code.
+- **Problem-Solving**: Writing efficient solutions with optimal time and space complexity.
+- **Best Practices**: Clean, readable, and modular Python code.
 
 ---
-<br />
 
 ## 🏆 Achievements
 
-- 50 Days Badge 2024
-- 100 Days Badge 2024
-- May leetCoding challenge Badge 2024
-- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats).
-- Daily Coding Streak: [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal)](https://git.io/streak-stats).
-<br />
-## 📝 How to Use
-Clone this repository:
- 
-```git clone https://github.com/your-username/leetcode-python3.git```
-Navigate to a problem's folder: 
+- **50 Days Badge (2024)**  
+- **100 Days Badge (2024)**  
+- **May LeetCoding Challenge Badge (2024)**  
+- **Daily Coding Streak**:  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Haris-Mughal&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&dateformat=[Y.]n.j)](https://git.io/streak-stats)  
 
-`cd 1-two-sum`<br />
-Run the solution:<br />
-`python3 two_sum.py`
-<br />
+---
 
 ## 🌟 Future Goals
-- Solve 200+ problems across various difficulty levels.
-- Get 200 Days LeetCode Badge.
-- Focus on Dynamic Programming and Graph Algorithms.
-- Share optimized solutions with detailed explanations.
-<br />
+
+- Solve **200+ problems** across varying difficulty levels.  
+- Earn the **200 Days LeetCode Badge**.  
+- Master **Dynamic Programming** and **Graph Algorithms**.  
+- Share optimized solutions with in-depth explanations.  
+
+---
+
 ## 🧩 Resources
-- [LeetCode](https://leetcode.com/)
-- [Python Official Documentation](https://docs.python.org/3/)
 
-<br />
+- [LeetCode](https://leetcode.com/)  
+- [Python Official Documentation](https://docs.python.org/3/)  
+
+---
+
 ## ✍️ Author
-**Muhammad Haris Ahsan** - [GitHub Profile](https://github.com/Haris-Mughal) | [Portfolio](https://muhammad-haris-ahsan.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/iamharisahsan)
-<br />
-Feel free to ⭐ the repository if you find it useful, and reach out for collaboration or queries. 😊
-<br />
 
- > Happy Coding
+**Muhammad Haris Ahsan**  
+- [GitHub Profile](https://github.com/Haris-Mughal)  
+- [LinkedIn](https://www.linkedin.com/in/iamharisahsan)  
+- [Portfolio](https://muhammad-haris-ahsan.vercel.app/)  
+
+Feel free to ⭐ the repository if you find it helpful. Reach out for collaboration or queries. 😊  
+
+---
+
+> **Happy Coding!** 🚀  
