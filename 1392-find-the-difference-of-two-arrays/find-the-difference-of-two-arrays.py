@@ -8,4 +8,3 @@ class Solution:
         num2 = list(set(nums2) - set(nums1))
 
         return num1,num2
-        # return list(set(nums1) - set(nums2)), list(set(nums2) - set(nums1))
