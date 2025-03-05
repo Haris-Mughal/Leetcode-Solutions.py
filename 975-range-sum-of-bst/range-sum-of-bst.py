@@ -10,13 +10,10 @@ class Solution:
         if not root:
             return 0
 
-        leftTree = self.rangeSumBST(root.left, low, high)
-        rightTree = self.rangeSumBST(root.right, low, high)
-    
-        if root.val > high:
-            return leftTree
-    
         if root.val < low:
-            return rightTree
-    
-        return (root.val + rightTree + leftTree)
+            return self.rangeSumBST(root.right, low, high)
+
+        if root.val > high:
+            return self.rangeSumBST(root.left, low, high)
+
+        return root.val + self.rangeSumBST(root.left, low, high) + self.rangeSumBST(root.right, low, high)
