@@ -1,5 +1,6 @@
 class Solution:
     def finalString(self, s: str) -> str:
+        
         res = []
 
         for i in s:
