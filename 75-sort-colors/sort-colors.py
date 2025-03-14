@@ -5,7 +5,6 @@ class Solution:
         """
         l = 0
         r = len(nums) -1
-
         i = 0
 
         def swap(i, j):
