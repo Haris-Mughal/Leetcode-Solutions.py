@@ -8,14 +8,14 @@ class Solution:
         result = 0
 
         for right in range(len(nums)):
-            if nums[right]==value:
-                count+=1
+            if nums[right] == value:
+                count += 1
 
-            while count==k:
-                result+=len(nums)-right
+            while count == k:
+                result += len(nums) - right
 
-                if nums[left]==value:
-                    count-=1
-                left+=1
+                if nums[left] == value:
+                    count -= 1
+                left += 1
 
         return result
