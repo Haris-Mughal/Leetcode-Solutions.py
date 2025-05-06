@@ -1,12 +1,16 @@
-from collections import defaultdict
 class Solution:
     def numEquivDominoPairs(self, dominoes: List[List[int]]) -> int:
-        count = defaultdict(int)
+        count = {}
         result = 0
 
         for a, b in dominoes:
-            key = tuple(sorted((a, b)))
-            result += count[key]
-            count[key] += 1
+            key = (min(a, b), max(a, b))
+        
+            if key in count:
+                result += count[key]
+                count[key] += 1
+            else:
+                count[key] = 1
 
         return result
+        
